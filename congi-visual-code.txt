@@ -1,0 +1,39 @@
+{
+    "bracket-pair-colorizer-2.colors": [
+        "#fafafa",
+        "#9F51B6",
+        "#F7C244",
+        "#F07850",
+        "#9CDD29",
+        "#0098FA"
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "CodeGPT.apiKey": "OpenAI",
+    "settingsSync.ignoredSettings": [
+
+    ],
+    "git.ignoreMissingGitWarning": true,
+    "editor.tabSize": 2,
+    "chat.editor.wordWrap": "on",
+    "update.showReleaseNotes": false,
+    
+"[html]": {
+  "emmet.includeLanguages": {},
+  "emmet.showExpandedAbbreviation": "never",
+  "emmet.triggerExpansionOnTab": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.quickSuggestions": false,
+  "editor.acceptSuggestionOnEnter": "off"
+},
+"editor.inlineSuggest.edits.allowCodeShifting": "never",
+"editor.inlineSuggest.edits.renderSideBySide": "never",
+"github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+"github.copilot.nextEditSuggestions.enabled": false,
+"github.copilot.nextEditSuggestions.fixes": false
+
+    
+}
