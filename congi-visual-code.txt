@@ -21,19 +21,39 @@
     "chat.editor.wordWrap": "on",
     "update.showReleaseNotes": false,
     
+
 "[html]": {
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showSnippets": false,
   "emmet.includeLanguages": {},
   "emmet.showExpandedAbbreviation": "never",
-  "emmet.triggerExpansionOnTab": false,
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.quickSuggestions": false,
-  "editor.acceptSuggestionOnEnter": "off"
+  "emmet.triggerExpansionOnTab": false
 },
-"editor.inlineSuggest.edits.allowCodeShifting": "never",
-"editor.inlineSuggest.edits.renderSideBySide": "never",
-"github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
-"github.copilot.nextEditSuggestions.enabled": false,
-"github.copilot.nextEditSuggestions.fixes": false
 
-    
+"[css]": {
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showSnippets": false,
+  "emmet.includeLanguages": {},
+  "emmet.showExpandedAbbreviation": "never",
+  "emmet.triggerExpansionOnTab": false
+}
+ 
 }
